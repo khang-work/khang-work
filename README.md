@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Khang Bao!
 
-Welcome to my personal profile! I'm an interdisciplinary professional with expertise spanning software engineering, mechanical design, and biomedical science. My passion lies in leveraging technology to solve complex challenges and deliver innovative, high-quality products.
+Welcome to my personal profile! I'm an interdisciplinary professional with expertise spanning ![Software Engineering](https://img.shields.io/badge/Software%20Engineering-blue), ![Mechanical Design](https://img.shields.io/badge/Mechanical%20Design-orange), and ![Biomedical Sciences](https://img.shields.io/badge/Biomedical%20Sciences-green). My passion lies in leveraging technology to solve complex challenges and deliver innovative, high-quality products.
 
 ---
 
@@ -29,7 +29,7 @@ Welcome to my personal profile! I'm an interdisciplinary professional with exper
 ## CAD & Design & Prototyping Tools
 
 - **CAD**: Autodesk Fusion, KiCAD, FreeCAD
-- **3D Printing**: Cura, resin printing
+- **3D Printing**: FDM printing, resin printing
 
 ## Technologies
 
